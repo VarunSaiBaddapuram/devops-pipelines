@@ -1,0 +1,20 @@
+{
+  "name": "pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunSaiBaddapuram/devops-pipelines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarunSaiBaddapuram/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/VarunSaiBaddapuram/devops-pipelines#readme",
+  "description": ""
+}
